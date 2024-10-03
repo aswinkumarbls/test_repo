@@ -1,0 +1,15 @@
+Test file for instructions;
+
+adding code snippet;
+
+test code;
+
+int main()
+{
+    string n_temp;
+    getline(cin, n_temp);
+
+    int n = stoi(ltrim(rtrim(n_temp)));
+    return 0;
+
+}
